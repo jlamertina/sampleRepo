@@ -1,7 +1,7 @@
 # ReadMe for sampleRepo
 * author: John Lamertina
 * date: September 28, 2015
-## gitbash
+# gitbash
 * mkdir sampleRepo
 * cd sampleRepo
 * git init
